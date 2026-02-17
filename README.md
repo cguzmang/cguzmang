@@ -36,4 +36,4 @@ Trabajar con datos de clientes en el mundo energético me enseñó que los núme
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:camguzmang@outlook.com)
