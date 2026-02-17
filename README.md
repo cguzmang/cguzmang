@@ -3,7 +3,7 @@
 
 Vengo del sector energético, donde gestioné deuda de clientes B2B y construí reportería automatizada en Power BI conectada a SAP. Hoy aplico esa misma mentalidad analítica al retail y ecommerce: entender el comportamiento del cliente, anticipar patrones y traducir datos en decisiones de negocio.
 
-Actualmente construyendo mi portafolio en retail analytics & ML.
+Actualmente construyendo mi portafolio en retail analytics & ecommerce analytics.
 
 ---
 
