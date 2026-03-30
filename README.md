@@ -8,8 +8,8 @@ Data analyst with a background in BI and business reporting, currently transitio
 
 **Lenguajes:** Python · SQL · R  
 **ML & Análisis:** scikit-learn · pandas · matplotlib · seaborn  
-**BI & Visualización:** Power BI · Looker Studio · Tableau · Spotfire · Excel  
-**Datos & APIs:** REST APIs · SAP (extracción de datos)  
+**BI & Visualización:** Power BI · Spotfire · Excel  
+**Datos & APIs:** REST APIs · SAP 
 
 ---
 
@@ -18,6 +18,7 @@ Data analyst with a background in BI and business reporting, currently transitio
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | 🛒 [Customer Segmentation - Ecommerce](https://github.com/cguzmang/olist-customer-segmentation) | Segmentación RFM + K-Means sobre datos reales de ecommerce. Dashboard en Looker Studio. | Python · SQL · Looker Studio |
+| 📊 [Retail Analytics - Customer Behavior](https://github.com/cguzmang) | Full retail analysis: cohorts, churn, A/B testing, funnel, LTV, market basket. *(Work in progress)* | Python · SQL |
 | 📅 [Payment Date Predictor](https://github.com/cguzmang) | Modelo de predicción del día probable de pago de clientes B2B. | Python · scikit-learn |
 | 🎵 [Spotify Data Explorer](https://github.com/cguzmang) | Extracción de datos de artistas vía Spotify API y análisis exploratorio. | Python · Spotify API |
 
