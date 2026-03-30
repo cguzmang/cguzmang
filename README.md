@@ -1,5 +1,5 @@
 # Camila Guzmán G.
-### Business Intelligence Analyst · Retail & Ecommerce Analytics · Santiago, Chile 
+### Business Intelligence Analyst · Santiago, Chile 
 
 Vengo del sector energético, donde gestioné y analicé deuda y comportamiento de pago de clientes B2B, además de construir reportería automatizada en Power BI conectada a SAP. Hoy aplico esa misma mentalidad analítica al retail y ecommerce: entender el comportamiento del cliente, anticipar patrones y traducir datos en decisiones de negocio.
 
