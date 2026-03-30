@@ -23,7 +23,7 @@ Data analyst with a background in BI and business reporting, currently transitio
 | 📅 [Payment Date Predictor](https://github.com/cguzmang) | Predicting likely payment date for B2B clients. *(Work in progress)* | Python · scikit-learn |
 | 🎵 [Spotify Data Explorer](https://github.com/cguzmang) | Artist data extraction via Spotify API and exploratory analysis. *(Work in progress)* | Python · Spotify API |
 
-> 🚧 Portfolio actively under construction — new projects every week.
+> 🚧 Portfolio actively under construction.
 
 ---
 
