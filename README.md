@@ -19,7 +19,7 @@ Data analyst with a background in BI and business reporting, currently transitio
 | Project | Description | Stack |
 |---|---|---|
 | 🛒 [Customer Segmentation - Ecommerce](https://github.com/cguzmang/olist-customer-segmentation) | RFM segmentation on real ecommerce data. Business recommendations by segment. | Python · SQL |
-| 📊 [Retail Analytics - Customer Behavior](https://github.com/cguzmang) | Full retail analysis: cohorts, churn, A/B testing, funnel, LTV, market basket. *(Work in progress)* | Python · SQL · Power BI |
+| 📊 [Retail Analytics - Customer Behavior](https://github.com/cguzmang/retail-analytics) | Full retail analysis: cohorts, churn, A/B testing, funnel, LTV, market basket. *(Work in progress)* | Python · SQL · Power BI |
 | 📅 [Payment Date Predictor](https://github.com/cguzmang) | Predicting likely payment date for B2B clients. *(Work in progress)* | Python · scikit-learn |
 | 🎵 [Spotify Data Explorer](https://github.com/cguzmang) | Artist data extraction via Spotify API and exploratory analysis. *(Work in progress)* | Python · Spotify API |
 
