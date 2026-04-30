@@ -1,7 +1,7 @@
 # Camila Guzmán G.
 ### Business Intelligence Analyst · Santiago, Chile
 
-Data analyst with a background in BI and business reporting, currently transitioning into retail & ecommerce analytics. At Enel Generación Chile, I built and maintained automated Power BI dashboards connected to SAP, Salesforce and SharePoint — turning fragmented data sources into clear KPIs for commercial and operational decision-making. I'm now applying that same analytical approach to customer behavior, segmentation and conversion in the retail space, building hands-on projects with Python, SQL and Power BI.
+Data Analyst with experience in BI, business reporting and customer behavior analysis. I build Power BI dashboards connected to enterprise data sources (SAP, SharePoint) — modeling data, writing DAX measures and transforming fragmented sources into clear KPIs for operational and commercial decision-making. I'm now expanding into broader analytics, developing hands-on projects in Python and SQL focused on customer segmentation, retention and behavior patterns.
 
 ---
 
@@ -29,7 +29,7 @@ Data analyst with a background in BI and business reporting, currently transitio
 
 ## 📈 Background
 
-Working with customer data in the energy sector taught me that numbers always tell a story about human behavior. That's the perspective I bring to retail: not just building models, but understanding *why* a customer buys, when they're about to leave, and how to bring them back.
+Working with customer data in the energy sector taught me that numbers always tell a story about human behavior. That's the perspective I bring to every project: not just building dashboards or running analyses, but understanding why customers behave the way they do, when they pay, when they churn, and what patterns drive their decisions
 
 ---
 
