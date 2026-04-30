@@ -1,5 +1,5 @@
 # Camila Guzmán G.
-### Business Intelligence Analyst · Santiago, Chile
+### Data Analyst · Santiago, Chile
 
 Data Analyst with experience in BI, business reporting and customer behavior analysis. I build Power BI dashboards connected to enterprise data sources (SAP, SharePoint) — modeling data, writing DAX measures and transforming fragmented sources into clear KPIs for operational and commercial decision-making. I'm now expanding into broader analytics, developing hands-on projects in Python and SQL focused on customer segmentation, retention and behavior patterns.
 
