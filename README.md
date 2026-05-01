@@ -8,9 +8,9 @@ Data Analyst with experience in BI, business reporting and customer behavior ana
 ## 🛠️ Stack
 
 **Languages:** Python · SQL · R  
-**ML & Analysis:** scikit-learn · pandas · matplotlib · seaborn  
+**Libraries:** pandas · matplotlib · seaborn · scikit-learn · scipy · mlxtend  
 **BI & Visualization:** Power BI · Spotfire · Excel  
-**Data & APIs:** REST APIs · SAP
+**Data Sources:** SAP · SharePoint  
 
 ---
 
@@ -19,7 +19,7 @@ Data Analyst with experience in BI, business reporting and customer behavior ana
 | Project | Description | Stack |
 |---|---|---|
 | 🛒 [Customer Segmentation - Ecommerce](https://github.com/cguzmang/olist-customer-segmentation) | RFM segmentation on real ecommerce data. Business recommendations by segment. | Python · SQL |
-| 📊 [Retail Analytics - Customer Behavior](https://github.com/cguzmang/retail-analytics) | Full retail analysis: cohorts, churn, A/B testing, funnel, LTV, market basket. | Python · pandas · seaborn · scikit-learn · scipy · mlxtend
+| 📊 [Retail Analytics - Customer Behavior](https://github.com/cguzmang/retail-analytics) | Full retail analysis: cohorts, churn, A/B testing, market basket. | Python · pandas · seaborn · scikit-learn · scipy · mlxtend
 | 📅 [Payment Date Predictor](https://github.com/cguzmang) | Predicting likely payment date for B2B clients. *(Work in progress)* | Python · scikit-learn |
 | 🎵 [Spotify Data Explorer](https://github.com/cguzmang) | Artist data extraction via Spotify API and exploratory analysis. *(Work in progress)* | Python · Spotify API |
 
